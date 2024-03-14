@@ -1,0 +1,9 @@
+.carrito{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1%;
+    background-color: #959d9e;
+}

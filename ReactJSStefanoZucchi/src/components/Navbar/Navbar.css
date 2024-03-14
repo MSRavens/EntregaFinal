@@ -1,0 +1,18 @@
+.Navbar-ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    color: black;
+    li{
+        margin-inline: 2vw;
+    }  
+}
+
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    padding: 1%;
+    background-color: #d0ac7a;
+}

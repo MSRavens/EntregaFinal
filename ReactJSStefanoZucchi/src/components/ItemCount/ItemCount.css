@@ -1,0 +1,14 @@
+.contador{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contador-botones{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sumaresta {
+    width: 16px;
+}

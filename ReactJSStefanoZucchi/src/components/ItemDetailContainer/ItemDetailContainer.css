@@ -1,0 +1,8 @@
+.detalle-carrito{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #959d9e;
+    padding: 1%;
+}

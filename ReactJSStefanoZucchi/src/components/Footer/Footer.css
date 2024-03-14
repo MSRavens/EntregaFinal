@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    padding: 1%;
+    background-color: #d0ac7a;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer-ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.footer-slogan{
+    font-size: small;
+    padding: 1%;
+}
+

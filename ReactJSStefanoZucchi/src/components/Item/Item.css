@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+}
+
+.ficha-producto{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+
+}
+

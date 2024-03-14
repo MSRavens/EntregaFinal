@@ -1,0 +1,11 @@
+.carrito-widget{
+    display: flex;
+    align-items: center;
+    margin-right: 1%;
+    justify-content: space-between;
+}
+
+.carrito-icono{
+    width: 36px;
+    background-color: none;
+}
